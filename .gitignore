@@ -1,0 +1,6 @@
+scrape/*
+.DS_Store
+.idea/
+output/*
+swagger-github.csv
+output.json
